@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{30F9A17B-C3F0-5231-73BA-60693F7043E3}</ProjectGuid>
+    <ProjectGuid>{0D37B2A0-B648-E3B6-0791-4C5361953527}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,40 +66,40 @@
      <Compile Include="Assets\Scripts\MonsterStat.cs" />
      <Compile Include="Assets\Scripts\StartManager.cs" />
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Triangle.Runtime">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -303,16 +303,16 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>C:/Unity Advenced Tutorial/Mobile Defense Game/Mobile-Defense-Game/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
